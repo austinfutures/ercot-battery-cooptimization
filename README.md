@@ -21,15 +21,7 @@ The model uses CVXPY to solve a convex optimization problem.
 
 The objective maximizes:
 
-Energy arbitrage revenue
-
-+
-
-Ancillary-service reserve revenue
-
--
-
-Battery degradation cost
+Energy arbitrage revenue + Ancillary-service reserve revenue - Battery degradation cost
 
 The model includes:
 
