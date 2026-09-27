@@ -23,7 +23,7 @@ The objective maximizes:
 
 Energy arbitrage revenue + Ancillary-service reserve revenue - Battery degradation cost
 
-The model includes:
+The model has several features, including:
 
 - Charge/discharge power limits
 - State-of-charge limits
